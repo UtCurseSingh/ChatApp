@@ -1,4 +1,4 @@
-#ChatApp
+#hatApp
 
 Real time Chat App using Node.js and socket.io
 
